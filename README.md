@@ -50,3 +50,4 @@ Without block
 ```ruby
 activate :image_optim, :pngout => false
 ```
+
